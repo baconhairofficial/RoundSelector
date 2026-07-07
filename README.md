@@ -24,4 +24,4 @@ Start a match, press **J**, enter a round number, and confirm.
 
 ## Author
 
-Created by cs2ontop2001.
+Created by baconhairofficial.
